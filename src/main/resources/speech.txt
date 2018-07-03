@@ -1,0 +1,8 @@
+Hello there - this is your simple Java application speaking
+I appear to be living on Fabric
+This is a very strange place for me
+It will take some time for me to get used to this
+But I think I will be happy here :-)
+Where is my server??
+I am running on a Pod?!?!
+The name of my Pod has been printed on each line :-).
