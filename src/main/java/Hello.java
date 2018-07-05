@@ -13,10 +13,10 @@ public class Hello {
 
     public static void main(String[] args) throws InterruptedException {
         Hello h = new Hello();
-        for (int i=0; i<2; i++) {
+     //   for (int i=0; i<2; i++) {
             h.sayHello();
-            System.out.println(getTime() + " - I shall repeat myself now...");
-        }
+       //     System.out.println(getTime() + " - I shall repeat myself now...");
+       // }
     }
 
     public void sayHello() throws InterruptedException {
