@@ -27,7 +27,7 @@ public class Hello {
         try  {
             while ( (current = reader.readLine()) != null) {
                 System.out.println(getTime() + " - " + System.getenv("HOSTNAME") + " - " + current);
-                Thread.sleep(5000);
+              //  Thread.sleep(5000);
             }
             reader.close();
         } catch (IOException e) {
