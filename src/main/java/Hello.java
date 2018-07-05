@@ -12,9 +12,10 @@ public class Hello {
     public Hello() { }
 
     public static void main(String[] args) throws InterruptedException {
-        Hello h = new Hello();
+        System.out.println(getTime() + " - " + System.getenv("HOSTNAME"));
+    //    Hello h = new Hello();
      //   for (int i=0; i<2; i++) {
-            h.sayHello();
+      //      h.sayHello();
        //     System.out.println(getTime() + " - I shall repeat myself now...");
        // }
     }
